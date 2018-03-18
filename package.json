@@ -1,0 +1,16 @@
+{
+  "name": "hero-api-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mysql2": "^1.5.2",
+    "restify": "^6.3.4",
+    "sequelize": "^4.37.1"
+  }
+}
