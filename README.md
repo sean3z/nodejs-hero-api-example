@@ -18,7 +18,9 @@ git clone https://github.com/sean3z/nodejs-hero-api-example.git
 
 **2. Create DATABASE_URL environment variable**
 
-+ `export DATABASE_URL=mysql://user:pass@localhost/heroes`
+```bash
+export DATABASE_URL=mysql://user:pass@localhost/heroes
+```
 
 **3. Install Node Dependencies**
 ```bash
